@@ -9,6 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tiptap/pm": "^2.3.0",
+    "@tiptap/starter-kit": "^2.3.0",
+    "@tiptap/vue-3": "^2.3.0",
+    "html2canvas": "^1.4.1",
     "konva": "^9.3.6",
     "vue": "^3.4.21",
     "vue-konva": "^3.0.2"
